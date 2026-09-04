@@ -7,7 +7,7 @@ about:
   head: 299157a
   archived: false
   latestVersion: v1.42.3
-  collectedAt: 2026-09-04T19:53:42Z
+  collectedAt: 2026-09-04T20:47:52Z
 timeline:
   created: 2018-02-07
   lastCommit: 2026-07-16
@@ -44,7 +44,7 @@ recent:
     openPR: 13
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 2
   last90d:
     since: 2026-06-06
     release: 1
@@ -52,7 +52,7 @@ recent:
     openPR: 15
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 14
   last180d:
     since: 2026-03-08
     release: 3
@@ -60,7 +60,7 @@ recent:
     openPR: 18
     closedIssue: 3
     openIssue: 4
-    commit: 0
+    commit: 31
   last360d:
     since: 2025-09-09
     release: 4
@@ -68,7 +68,7 @@ recent:
     openPR: 21
     closedIssue: 16
     openIssue: 5
-    commit: 0
+    commit: 59
   last720d:
     since: 2024-09-14
     release: 12
@@ -85,6 +85,84 @@ total:
   openIssue: 45
   commit: 3416
 ---
+path: /home/runner/.x-repo/github.com/operator-framework/operator-sdk
+collectedAt: 2026-09-04T20:47:56Z
+loc:
+  Go:
+    code: 33631
+    comments: 7610
+    blanks: 5785
+    files: 320
+  Yaml:
+    code: 8152
+    comments: 707
+    blanks: 146
+    files: 211
+  Sass:
+    code: 1410
+    comments: 25
+    blanks: 146
+    files: 12
+  Svg:
+    code: 896
+    comments: 9
+    blanks: 1
+    files: 16
+  Json:
+    code: 808
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 805
+    comments: 249
+    blanks: 215
+    files: 5
+  Html:
+    code: 542
+    comments: 1
+    blanks: 9
+    files: 22
+  Sh:
+    code: 386
+    comments: 79
+    blanks: 112
+    files: 18
+  Toml:
+    code: 309
+    comments: 62
+    blanks: 80
+    files: 2
+  Dockerfile:
+    code: 172
+    comments: 74
+    blanks: 75
+    files: 13
+  Pan:
+    code: 95
+    comments: 0
+    blanks: 8
+    files: 2
+  Bash:
+    code: 45
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15764
+    blanks: 5899
+    files: 264
+  Text:
+    code: 0
+    comments: 54
+    blanks: 12
+    files: 5
+total:
+  code: 50835
+  comments: 25119
+  blanks: 12779
+  files: 892
 ---
 date: "2026-08-24"
 repo:
