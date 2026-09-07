@@ -5,7 +5,7 @@ about:
   head: 299157a
   archived: false
   latestVersion: "v1.42.3"
-  collectedAt: 2026-09-07T04:58:16Z
+  collectedAt: 2026-09-07T19:27:19Z
 timeline:
   created: 2018-02-07
   lastCommit: 2026-07-16
@@ -84,7 +84,7 @@ total:
   commit: 3416
 ---
 path: /home/runner/.x-repo/github.com/operator-framework/operator-sdk
-collectedAt: 2026-09-07T04:58:23Z
+collectedAt: 2026-09-07T19:27:28Z
 loc:
   Go:
     code: 33631
@@ -316,7 +316,7 @@ checks:
       - 'Info:   0 out of   1 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:58:25+00:00
+  collectedAt: 2026-09-07T19:27:29+00:00
   platform:
     darwin/arm64:
       name:  operator-sdk_darwin_arm64
