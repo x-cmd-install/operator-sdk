@@ -5,7 +5,7 @@ about:
   head: 299157a
   archived: false
   latestVersion: "v1.42.3"
-  collectedAt: 2026-09-08T02:15:06Z
+  collectedAt: 2026-09-08T04:52:53Z
 timeline:
   created: 2018-02-07
   lastCommit: 2026-07-16
@@ -84,7 +84,7 @@ total:
   commit: 3416
 ---
 path: /home/runner/.x-repo/github.com/operator-framework/operator-sdk
-collectedAt: 2026-09-08T02:15:11Z
+collectedAt: 2026-09-08T04:52:58Z
 loc:
   Go:
     code: 33631

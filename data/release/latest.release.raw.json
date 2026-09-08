@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1106,
       "digest": "sha256:90ee51ffe878850411a3d60ad2d0fdc2bc94717b339612f676d7a2457f29ade4",
-      "download_count": 14366,
+      "download_count": 14414,
       "created_at": "2026-06-26T18:52:44Z",
       "updated_at": "2026-06-26T18:52:44Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 100438191,
       "digest": "sha256:44f24480e85f38e3f9c976092a4aa996567b893723842f9ded0d264a31c7ec35",
-      "download_count": 77,
+      "download_count": 78,
       "created_at": "2026-06-26T18:52:43Z",
       "updated_at": "2026-06-26T18:52:47Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_linux_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 117827314,
       "digest": "sha256:887a3bb0d63ccc4ca47a522d0c8ffac56d9d5246f6a2bd886b4ed23eb2e2672f",
-      "download_count": 54095,
+      "download_count": 54197,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:40Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 111086459,
       "digest": "sha256:6db93cd821b429f0bb514cea4bbb5553827d273fc8aa211f13e14798599d31cd",
-      "download_count": 1338,
+      "download_count": 1344,
       "created_at": "2026-06-26T18:52:43Z",
       "updated_at": "2026-06-26T18:52:46Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_arm64"
