@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1106,
       "digest": "sha256:90ee51ffe878850411a3d60ad2d0fdc2bc94717b339612f676d7a2457f29ade4",
-      "download_count": 14902,
+      "download_count": 15253,
       "created_at": "2026-06-26T18:52:44Z",
       "updated_at": "2026-06-26T18:52:44Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:0c221af2fc74bd71dd2149d56b4f615c87754b14dc60c32ec659f25f79ad4fde",
-      "download_count": 1079,
+      "download_count": 1083,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:36Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/checksums.txt.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 121696992,
       "digest": "sha256:7cb0f24bb63b6383a117291ee4c808953c5dd789d5877da98051aa68b41f40ac",
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:39Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_darwin_amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 115935458,
       "digest": "sha256:098ae8b9dbe7dfd557e8e7ed0f1996736922dd4b984621df2aa033f225cae161",
-      "download_count": 432,
+      "download_count": 436,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:40Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_darwin_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 117827314,
       "digest": "sha256:887a3bb0d63ccc4ca47a522d0c8ffac56d9d5246f6a2bd886b4ed23eb2e2672f",
-      "download_count": 55621,
+      "download_count": 56672,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:40Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 111086459,
       "digest": "sha256:6db93cd821b429f0bb514cea4bbb5553827d273fc8aa211f13e14798599d31cd",
-      "download_count": 1387,
+      "download_count": 1410,
       "created_at": "2026-06-26T18:52:43Z",
       "updated_at": "2026-06-26T18:52:46Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 115999998,
       "digest": "sha256:4214811db40b2d0f1ee571241849e6cd22b50517351efeee0340dcb5c0d1c4eb",
-      "download_count": 313,
+      "download_count": 317,
       "created_at": "2026-06-26T18:52:36Z",
       "updated_at": "2026-06-26T18:52:39Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_ppc64le"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 120508707,
       "digest": "sha256:1493923e193b77b0822cd4c6c0e601308db562eca599665aacbb998b95b6bbf9",
-      "download_count": 360,
+      "download_count": 364,
       "created_at": "2026-06-26T18:52:40Z",
       "updated_at": "2026-06-26T18:52:44Z",
       "browser_download_url": "https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_s390x"
