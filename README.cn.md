@@ -4,7 +4,7 @@
 
 SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 
-![operator-sdk](https://repo.x-cmd.io/operator-sdk.svg)
+![operator-sdk](https://repo.x-cmd.io/operator-sdk.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,25 @@ x install operator-sdk
 - **最新版本**: `v1.42.3` (2026-06-26)
 - **最近提交**: 2026-07-16
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-06-26T18:52:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/checksums.txt) | 1.1 KiB | `other` |
+| [checksums.txt.asc](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/checksums.txt.asc) | 566 B | `other` |
+| [helm-operator_darwin_amd64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_darwin_amd64) | 105.0 MiB | `native/darwin/x64` |
+| [helm-operator_darwin_arm64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_darwin_arm64) | 100.1 MiB | `native/darwin/arm64` |
+| [helm-operator_linux_amd64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_linux_amd64) | 101.5 MiB | `native/linux/x64` |
+| [helm-operator_linux_arm64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_linux_arm64) | 95.8 MiB | `native/linux/arm64` |
+| [helm-operator_linux_ppc64le](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_linux_ppc64le) | 99.9 MiB | `other` |
+| [helm-operator_linux_s390x](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/helm-operator_linux_s390x) | 103.9 MiB | `other` |
+| [operator-sdk_darwin_amd64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_darwin_amd64) | 116.1 MiB | `native/darwin/x64` |
+| [operator-sdk_darwin_arm64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_darwin_arm64) | 110.6 MiB | `native/darwin/arm64` |
+| [operator-sdk_linux_amd64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_amd64) | 112.4 MiB | `native/linux/x64` |
+| [operator-sdk_linux_arm64](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_arm64) | 105.9 MiB | `native/linux/arm64` |
+| [operator-sdk_linux_ppc64le](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_ppc64le) | 110.6 MiB | `other` |
+| [operator-sdk_linux_s390x](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_s390x) | 114.9 MiB | `other` |
 
 ## 流行度
 
@@ -31,15 +49,15 @@ x install operator-sdk
 
 ## 累计统计
 
-- **发布数**: 126 · **已合并 PR**: 3377 · **开放 PR**: 24 · **已关闭 issue**: 2695 · **开放 issue**: 44 · **提交数**: 3416
+- **发布数**: 126 · **已合并 PR**: 3377 · **开放 PR**: 25 · **已关闭 issue**: 2695 · **开放 issue**: 44 · **提交数**: 3416
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 10 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 1 | 10 | 15 | 1 | 1 | 14 |
-| 360d | 2025-09-15 | 4 | 59 | 21 | 16 | 5 | 59 |
+| 30d | 2026-08-11 | 0 | 0 | 11 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 1 | 10 | 16 | 1 | 1 | 14 |
+| 360d | 2025-09-15 | 4 | 59 | 22 | 16 | 5 | 59 |
 
 ## 代码规模
 
@@ -72,4 +90,4 @@ operator-sdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:02:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:31Z._
