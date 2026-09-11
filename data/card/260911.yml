@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.42.3"
   latestRelease: "v1.42.3"
   latestPrerelease: "v1.0.0-alpha.2"
-  collectedAt: 2026-09-11T05:11:43Z
+  collectedAt: 2026-09-11T19:44:21Z
 timeline:
   created: 2018-02-07
   lastCommit: 2026-07-16
@@ -19,7 +19,7 @@ popularity:
   watcher: 124
   fork: 1778
   release: 126
-  contributor: 372
+  contributor: 373
   pullRequest: 4330
   issue: 2739
 language:
@@ -88,7 +88,7 @@ total:
   commit: 3416
 ---
 path: /home/runner/.x-repo/github.com/operator-framework/operator-sdk
-collectedAt: 2026-09-11T05:11:50Z
+collectedAt: 2026-09-11T19:44:32Z
 loc:
   Go:
     code: 33631
