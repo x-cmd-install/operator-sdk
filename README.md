@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,678 · **Forks**: 1,778 · **Open issues**: 2,739 · **Contributors**: 372
+- **Stars**: 7,678 · **Forks**: 1,778 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
@@ -105,4 +105,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:11:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:44:41Z._
