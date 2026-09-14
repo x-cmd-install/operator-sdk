@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 9 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 2 | 14 | 0 | 1 | 2 |
-| 90d | 2026-06-15 | 1 | 10 | 16 | 1 | 1 | 14 |
-| last180d | 2026-03-17 | 2 | 30 | 18 | 3 | 3 | 30 |
-| 360d | 2025-09-18 | 4 | 59 | 22 | 16 | 5 | 59 |
-| last720d | 2024-09-23 | 11 | 137 | 25 | 56 | 7 | 144 |
+| 30d | 2026-08-15 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 14 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 1 | 10 | 16 | 1 | 1 | 14 |
+| last180d | 2026-03-18 | 2 | 30 | 18 | 3 | 3 | 26 |
+| 360d | 2025-09-19 | 4 | 59 | 22 | 16 | 5 | 59 |
+| last720d | 2024-09-24 | 11 | 137 | 25 | 56 | 7 | 144 |
 
 ## Release assets
 
@@ -84,18 +84,6 @@ Lowest-scoring checks:
 | [operator-sdk_linux_ppc64le](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_ppc64le) | 110.6 MiB | `other` |
 | [operator-sdk_linux_s390x](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_s390x) | 114.9 MiB | `other` |
 
-## Distribution status
-
-Reported by **59** distros on [repology.org](https://repology.org/project/operator-sdk). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.42.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.42.3` | ✅ latest |
-| Void | `0.18.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.42.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for operator-sdk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `operator-sdk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:13:56Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:19:55Z._
