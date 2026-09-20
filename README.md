@@ -4,7 +4,7 @@
 
 SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 
-![operator-sdk](https://repo.x-cmd.io/operator-sdk.svg)
+[![x-cmd/install — operator-sdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/operator-sdk.svg)](https://x-cmd.com/install/operator-sdk)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,680 · **Forks**: 1,779 · **Open issues**: 2,739 · **Contributors**: 373
+- **Stars**: 7,681 · **Forks**: 1,779 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 12 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 19 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 1 | 9 | 20 | 1 | 1 | 14 |
-| last180d | 2026-03-22 | 1 | 26 | 23 | 4 | 2 | 26 |
-| 360d | 2025-09-23 | 4 | 59 | 27 | 17 | 4 | 59 |
-| last720d | 2024-09-28 | 11 | 137 | 30 | 57 | 6 | 144 |
+| 30d | 2026-08-21 | 0 | 0 | 12 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 19 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 1 | 9 | 20 | 1 | 1 | 14 |
+| last180d | 2026-03-24 | 1 | 26 | 23 | 2 | 2 | 26 |
+| 360d | 2025-09-25 | 4 | 59 | 27 | 17 | 4 | 59 |
+| last720d | 2024-09-30 | 11 | 137 | 30 | 57 | 6 | 144 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:21:06Z._

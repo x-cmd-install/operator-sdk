@@ -4,7 +4,7 @@
 
 SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 
-![operator-sdk](https://repo.x-cmd.io/operator-sdk.svg?lang=zh)
+[![x-cmd/install — operator-sdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/operator-sdk.svg?lang=zh)](https://x-cmd.com/install/operator-sdk)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install operator-sdk
 
 ## 流行度
 
-- **Star**: 7,680 · **Fork**: 1,779 · **开放 issue**: 2,739 · **贡献者**: 373
+- **Star**: 7,681 · **Fork**: 1,779 · **开放 issue**: 2,739 · **贡献者**: 373
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install operator-sdk
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 12 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 19 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 1 | 9 | 20 | 1 | 1 | 14 |
-| last180d | 2026-03-22 | 1 | 26 | 23 | 4 | 2 | 26 |
-| 360d | 2025-09-23 | 4 | 59 | 27 | 17 | 4 | 59 |
-| last720d | 2024-09-28 | 11 | 137 | 30 | 57 | 6 | 144 |
+| 30d | 2026-08-21 | 0 | 0 | 12 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 19 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 1 | 9 | 20 | 1 | 1 | 14 |
+| last180d | 2026-03-24 | 1 | 26 | 23 | 2 | 2 | 26 |
+| 360d | 2025-09-25 | 4 | 59 | 27 | 17 | 4 | 59 |
+| last720d | 2024-09-30 | 11 | 137 | 30 | 57 | 6 | 144 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ operator-sdk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:07:40Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:21:07Z._
