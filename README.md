@@ -4,7 +4,7 @@
 
 SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 
-[![x-cmd/install — operator-sdk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/operator-sdk.svg)](https://x-cmd.com/install/operator-sdk)
+[![x-cmd/install — operator-sdk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/operator-sdk.svg)](https://x-cmd.com/install/operator-sdk)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,682 · **Forks**: 1,778 · **Open issues**: 2,739 · **Contributors**: 373
+- **Stars**: 7,682 · **Forks**: 1,780 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 30 · **Closed issues**: 2696 · **Open issues**: 43 · **Commits**: 3416
+- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 31 · **Closed issues**: 2696 · **Open issues**: 43 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 12 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 19 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 1 | 8 | 20 | 1 | 1 | 5 |
-| last180d | 2026-03-26 | 1 | 26 | 23 | 2 | 2 | 26 |
-| 360d | 2025-09-27 | 4 | 59 | 27 | 17 | 4 | 59 |
-| last720d | 2024-10-02 | 11 | 136 | 30 | 57 | 6 | 144 |
+| 30d | 2026-08-24 | 0 | 0 | 8 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 20 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 1 | 7 | 21 | 1 | 1 | 5 |
+| last180d | 2026-03-27 | 1 | 26 | 24 | 2 | 2 | 26 |
+| 360d | 2025-09-28 | 4 | 59 | 28 | 17 | 4 | 59 |
+| last720d | 2024-10-03 | 11 | 136 | 31 | 57 | 6 | 144 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:19:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:17:34Z._
