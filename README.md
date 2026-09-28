@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,682 · **Forks**: 1,781 · **Open issues**: 2,739 · **Contributors**: 373
+- **Stars**: 7,684 · **Forks**: 1,781 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 20 | 0 | 1 | 0 |
-| 90d | 2026-06-29 | 0 | 4 | 21 | 1 | 1 | 5 |
-| last180d | 2026-03-31 | 1 | 25 | 25 | 2 | 2 | 26 |
-| 360d | 2025-10-02 | 4 | 59 | 29 | 17 | 4 | 59 |
-| last720d | 2024-10-07 | 11 | 135 | 32 | 57 | 6 | 144 |
+| 30d | 2026-08-29 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 0 | 0 | 20 | 0 | 1 | 0 |
+| 90d | 2026-06-30 | 0 | 4 | 21 | 0 | 1 | 4 |
+| last180d | 2026-04-01 | 1 | 25 | 25 | 2 | 2 | 25 |
+| 360d | 2025-10-03 | 4 | 59 | 29 | 17 | 4 | 59 |
+| last720d | 2024-10-08 | 11 | 135 | 32 | 57 | 6 | 144 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:32:58Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:43:31Z._
