@@ -26,12 +26,12 @@ Total: **47,251** lines of code across **560** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 - **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
-- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 33 · **Closed issues**: 2696 · **Open issues**: 43 · **Commits**: 3416
+- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 34 · **Closed issues**: 2696 · **Open issues**: 43 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 20 | 0 | 1 | 0 |
-| 90d | 2026-07-07 | 0 | 2 | 22 | 0 | 1 | 2 |
-| last180d | 2026-04-08 | 1 | 19 | 26 | 2 | 2 | 19 |
-| 360d | 2025-10-10 | 4 | 59 | 30 | 15 | 4 | 59 |
-| last720d | 2024-10-15 | 11 | 134 | 33 | 54 | 6 | 144 |
+| 30d | 2026-09-06 | 0 | 0 | 10 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 21 | 0 | 1 | 0 |
+| 90d | 2026-07-08 | 0 | 2 | 23 | 0 | 1 | 2 |
+| last180d | 2026-04-09 | 1 | 19 | 27 | 2 | 2 | 19 |
+| 360d | 2025-10-11 | 4 | 59 | 31 | 15 | 4 | 59 |
+| last720d | 2024-10-16 | 11 | 134 | 34 | 54 | 6 | 140 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:51:50Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:43:06Z._
