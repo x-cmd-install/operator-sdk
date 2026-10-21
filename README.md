@@ -26,11 +26,11 @@ Total: **47,251** lines of code across **560** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,685 · **Forks**: 1,780 · **Open issues**: 2,739 · **Contributors**: 373
+- **Stars**: 7,684 · **Forks**: 1,780 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 37 · **Closed issues**: 2695 · **Open issues**: 44 · **Commits**: 3416
+- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 38 · **Closed issues**: 2695 · **Open issues**: 44 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 8 | 0 | 1 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 19 | 0 | 2 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 26 | 0 | 2 | 0 |
-| last180d | 2026-04-23 | 1 | 18 | 28 | 1 | 2 | 18 |
-| 360d | 2025-10-25 | 4 | 59 | 34 | 13 | 5 | 59 |
-| last720d | 2024-10-30 | 11 | 129 | 37 | 53 | 6 | 138 |
+| 30d | 2026-09-21 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 20 | 0 | 2 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 27 | 0 | 2 | 0 |
+| last180d | 2026-04-24 | 1 | 18 | 29 | 1 | 2 | 18 |
+| 360d | 2025-10-26 | 4 | 59 | 35 | 13 | 5 | 59 |
+| last720d | 2024-10-31 | 11 | 129 | 38 | 53 | 6 | 135 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:04:05Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:01:10Z._
