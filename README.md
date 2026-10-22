@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,684 · **Forks**: 1,780 · **Open issues**: 2,739 · **Contributors**: 373
+- **Stars**: 7,684 · **Forks**: 1,781 · **Open issues**: 2,739 · **Contributors**: 373
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 38 · **Closed issues**: 2695 · **Open issues**: 44 · **Commits**: 3416
+- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 39 · **Closed issues**: 2695 · **Open issues**: 44 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 9 | 0 | 1 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 20 | 0 | 2 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 27 | 0 | 2 | 0 |
-| last180d | 2026-04-24 | 1 | 18 | 29 | 1 | 2 | 18 |
-| 360d | 2025-10-26 | 4 | 59 | 35 | 13 | 5 | 59 |
-| last720d | 2024-10-31 | 11 | 129 | 38 | 53 | 6 | 135 |
+| 30d | 2026-09-22 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 21 | 0 | 2 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 28 | 0 | 2 | 0 |
+| last180d | 2026-04-25 | 1 | 18 | 30 | 1 | 2 | 18 |
+| 360d | 2025-10-27 | 4 | 59 | 36 | 13 | 5 | 59 |
+| last720d | 2024-11-01 | 11 | 129 | 39 | 53 | 6 | 135 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:01:10Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:59:55Z._
