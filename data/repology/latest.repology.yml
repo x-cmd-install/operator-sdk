@@ -2,8 +2,8 @@
   subrepo: devops
   binname: operator-sdk
   visiblename: operator-sdk
-  version: 1.39.1
-  origversion: 1.39.1-1~ops2deb
+  version: 1.42.1
+  origversion: 1.42.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -64,8 +64,8 @@
   srcname: operator-sdk
   binname: operator-sdk
   visiblename: operator-sdk
-  version: 1.42.0
-  origversion: 1.42.0-2
+  version: 1.31.0
+  origversion: 1.31.0-1
   status: outdated
   summary: SDK for building Kubernetes applications
   licenses:
@@ -75,8 +75,8 @@
   srcname: operator-sdk
   binname: operator-sdk
   visiblename: operator-sdk
-  version: 1.42.0
-  origversion: 1.42.0-2
+  version: 1.31.0
+  origversion: 1.31.0-1
   status: outdated
   summary: SDK for building Kubernetes applications
   licenses:
@@ -223,15 +223,6 @@
   subrepo: devops
   binname: operator-sdk
   visiblename: operator-sdk
-  version: 1.42.1
-  origversion: 1.42.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: operator-sdk
-  visiblename: operator-sdk
   version: 1.42.0
   origversion: 1.42.0-1~ops2deb
   status: legacy
@@ -261,6 +252,15 @@
   visiblename: operator-sdk
   version: 1.39.2
   origversion: 1.39.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: operator-sdk
+  visiblename: operator-sdk
+  version: 1.39.1
+  origversion: 1.39.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
