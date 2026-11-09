@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 6 | 0 | 1 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 16 | 0 | 1 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 26 | 0 | 2 | 0 |
-| last180d | 2026-05-12 | 1 | 16 | 30 | 1 | 2 | 17 |
-| 360d | 2025-11-13 | 4 | 49 | 35 | 9 | 4 | 55 |
-| last720d | 2024-11-18 | 11 | 127 | 36 | 50 | 6 | 132 |
+| 30d | 2026-10-10 | 0 | 0 | 6 | 0 | 1 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 16 | 0 | 1 | 0 |
+| 90d | 2026-08-11 | 0 | 0 | 26 | 0 | 2 | 0 |
+| last180d | 2026-05-13 | 1 | 16 | 30 | 1 | 2 | 16 |
+| 360d | 2025-11-14 | 3 | 49 | 35 | 9 | 4 | 47 |
+| last720d | 2024-11-19 | 11 | 124 | 36 | 49 | 6 | 132 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:16:05Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:48:29Z._
