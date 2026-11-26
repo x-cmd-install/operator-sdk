@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,695 · **Forks**: 1,780 · **Open issues**: 2,742 · **Contributors**: 373
+- **Stars**: 7,694 · **Forks**: 1,780 · **Open issues**: 2,743 · **Contributors**: 373
 
 ## Totals (cumulative)
 
-- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 42 · **Closed issues**: 2695 · **Open issues**: 47 · **Commits**: 3416
+- **Releases**: 126 · **Merged PRs**: 3377 · **Open PRs**: 42 · **Closed issues**: 2695 · **Open issues**: 48 · **Commits**: 3416
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 6 | 0 | 3 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 13 | 0 | 4 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 22 | 0 | 4 | 0 |
-| last180d | 2026-05-29 | 1 | 10 | 35 | 1 | 5 | 14 |
-| 360d | 2025-11-30 | 3 | 46 | 40 | 9 | 7 | 46 |
-| last720d | 2024-12-05 | 10 | 122 | 41 | 48 | 9 | 127 |
+| 30d | 2026-10-27 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 13 | 0 | 5 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 22 | 0 | 5 | 0 |
+| last180d | 2026-05-30 | 1 | 10 | 35 | 1 | 6 | 14 |
+| 360d | 2025-12-01 | 3 | 46 | 40 | 9 | 8 | 46 |
+| last720d | 2024-12-06 | 10 | 122 | 41 | 48 | 10 | 127 |
 
 ## Release assets
 
@@ -84,6 +84,18 @@ Lowest-scoring checks:
 | [operator-sdk_linux_ppc64le](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_ppc64le) | 110.6 MiB | `other` |
 | [operator-sdk_linux_s390x](https://github.com/operator-framework/operator-sdk/releases/download/v1.42.3/operator-sdk_linux_s390x) | 114.9 MiB | `other` |
 
+## Distribution status
+
+Reported by **59** distros on [repology.org](https://repology.org/project/operator-sdk). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.42.0` | ⚠️ outdated |
+| Homebrew | `1.42.3` | ✅ latest |
+| Nix unstable | `1.42.3` | ✅ latest |
+| Void | `0.18.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.42.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for operator-sdk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `operator-sdk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +105,4 @@ Install metadata for operator-sdk lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:47:49Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:39:03Z._
